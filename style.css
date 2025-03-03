@@ -1,7 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #f5f5f5;
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 .navbar {
@@ -141,8 +141,14 @@ ul {
 }
 
 .text-center {
-    text-align: center;
+    text-align: justify;
 }
+
+.card-text-justify {
+    text-align: justify;
+}
+
+
 
 .p-3 {
     padding: 16px !important;
