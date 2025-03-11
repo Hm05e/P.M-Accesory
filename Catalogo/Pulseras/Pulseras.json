@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Pulsera",
+      "price": 150.00,
+      "description": "pul 1",
+      "image": "Catalogo/Pulseras/pandora1.png"
+    },
+    {
+      "id": 2,
+      "name": "Pulsera",
+      "price": 180.00,
+      "description": "pul 2",
+      "image": "Catalogo/Pulseras/pandora2.png"
+    },
+    {
+      "id": 3,
+      "name": "Pulsera",
+      "price": 200.00,
+      "description": "pul 3",
+      "image": "Catalogo/Pulseras/pandora3.png"
+    },  
+    {
+      "id": 4,
+      "name": "Pulsera",
+      "price": 250.00,
+      "description": "pul 4",
+      "image": "Catalogo/Pulseras/pandora4.png"
+    }
+  ]
+  

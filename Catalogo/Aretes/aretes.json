@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Anillo Clásico",
+      "price": 150.00,
+      "description": "Aretes para mujer rubia",
+      "image": "Catalogo/Aretes/aretes1.png"
+    },
+    {
+      "id": 2,
+      "name": "Anillo Moderno",
+      "price": 180.00,
+      "description": "Aretes for ebony girl",
+      "image": "Catalogo/Aretes/aretes2.png"
+    },
+    {
+      "id": 3,
+      "name": "Anillo de Compromiso",
+      "price": 200.00,
+      "description": "Aretes para mujer de cabello corto",
+      "image": "Catalogo/Aretes/aretes3.png"
+    },
+    {
+      "id": 4,
+      "name": "Anillo de Bodas",
+      "price": 250.00,
+      "description": "Aretes para mujer de cabello largo",
+      "image": "Catalogo/Aretes/aretes4.png"
+    },
+    {
+      "id": 5,
+      "name": "Anillo de Oro Blanco",
+      "price": 300.00,
+      "description": "Aretes para mujer de cabello rizado",
+      "image": "Catalogo/Aretes/aretes5.png"
+    },
+    {
+      "id": 6,
+      "name": "Anillo de Oro Rosa",
+      "price": 350.00,
+      "description": "Aretes para mujer de cabello lacio",
+      "image": "Catalogo/Aretes/aretes6.png"
+    }
+  ]
+  

@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Anillo Clásico",
+      "price": 150.00,
+      "description": "Anillo de oro clásico",
+      "image": "Catalogo/Anillos/anillo1.png"
+    },
+    {
+      "id": 2,
+      "name": "Anillo Moderno",
+      "price": 180.00,
+      "description": "Anillo de diseño moderno",
+      "image": "Catalogo/Anillos/anillo2.png"
+    },    
+    {
+      "id": 3,
+      "name": "Anillo de Compromiso",
+      "price": 200.00,
+      "description": "Anillo de compromiso",
+      "image": "Catalogo/Anillos/anillo3.png"
+    },
+    {
+      "id": 4,
+      "name": "Anillo de Bodas",
+      "price": 250.00,
+      "description": "Anillo de bodas",
+      "image": "Catalogo/Anillos/anillo4.png"
+    },
+    {
+      "id": 5,
+      "name": "Anillo de Oro Blanco",
+      "price": 300.00,
+      "description": "Anillo de oro blanco",
+      "image": "Catalogo/Anillos/anillo5.png"
+    },
+    {
+      "id": 6,
+      "name": "Anillo de Oro Rosa",
+      "price": 350.00,
+      "description": "Anillo de oro rosa",
+      "image": "Catalogo/Anillos/anillo6.png"
+    }
+
+  ]
+  

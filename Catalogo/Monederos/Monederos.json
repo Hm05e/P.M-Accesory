@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Monedero",
+      "price": 150.00,
+      "description": "Monedero 1",
+      "image": "Catalogo/Monederos/monedero1.png"
+    },      
+    {
+      "id": 2,
+      "name": "Monedero",
+      "price": 180.00,
+      "description": "Monedero 2",
+      "image": "Catalogo/Monederos/monedero2.png"
+    },
+    {
+      "id": 3,
+      "name": "Monedero",
+      "price": 200.00,
+      "description": "Monedero 3",
+      "image": "Catalogo/Monederos/monedero3.png"
+    },  
+    {
+      "id": 4,
+      "name": "Monedero",
+      "price": 250.00,
+      "description": "Monedora 4",
+      "image": "Catalogo/Monederos/monedero4.png"
+    }
+  ]
+
+  

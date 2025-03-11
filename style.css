@@ -1,4 +1,4 @@
-/* General */
+
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -32,6 +32,12 @@ body {
     outline: none;
 }
 
+.carousel-inner p,
+.carousel-inner h5 {
+    color:aqua;
+}
+
+
 /* Tarjetas de productos */
 #product-container .card {
     margin: 15px;
@@ -51,6 +57,9 @@ body {
     object-fit: cover;
 }
 
+.card{
+    margin-bottom: 1rem;
+}
 .card-title {
     font-family: 'Roboto', sans-serif;
     color: #09151b;
@@ -58,6 +67,14 @@ body {
     text-align: center;
 }
 
+
+
+ .card .btn{
+    display: flex; /* Permite aplicar márgenes automáticos */
+    margin: 0 auto; /* Centra el botón */
+    text-align: center;
+    justify-content: center;
+} 
 .card-text {
     font-size: 14px;
     color: #555;
@@ -132,7 +149,7 @@ body {
 
 /* Modo Oscuro */
 .dark-mode {
-    background-color: #121212;
+    background-color:  #333333;
     color: #ffffff;
 }
 
@@ -163,7 +180,24 @@ body {
     background-color: #444444;
     color: #ffcc00;
 }
+.dark-mode .carousel-inner p,
+.carousel-inner h5 {
+    color:aqua;
+}
 
+.dark-mode .card p {
+    
+    color: #333333;
+}
+.dark-mode .card-title {
+    color: black;
+    font-weight: bold;
+}
+
+.dark-mode .dropdown-item  {
+    
+    color: #333333;
+}
 /* Responsive */
 @media (max-width: 767px) {
     .footer-col {

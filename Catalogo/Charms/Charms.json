@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Charms clasico",
+      "price": 150.00,
+      "description": "charms para mujer rubia",
+      "image": "Catalogo/Charms/charms1.png"
+    },
+    {
+      "id": 2,
+      "name": "Charm Moderno",
+      "price": 180.00,
+      "description": "charms for ebony girl",
+      "image": "Catalogo/Charms/charms2.png"
+    }
+  ]
+  

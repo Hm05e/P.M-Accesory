@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Cadena ",
+      "price": 150.00,
+      "description": "cadena 1",
+      "image": "Catalogo/Cadenas/cadena1.png"
+    },
+    {
+      "id": 2,
+      "name": "Cadena",
+      "price": 180.00,
+      "description": "cadena 2",
+      "image": "Catalogo/Cadenas/cadena2.png"
+    }
+  ]
+  
